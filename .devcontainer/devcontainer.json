@@ -1,5 +1,5 @@
 {
-  "name": "eniad-android-mobile-suite",
+  "name": "native-android-multilingual-suite",
   "image": "mcr.microsoft.com/devcontainers/python:3.12-bookworm",
   "customizations": {
     "vscode": {

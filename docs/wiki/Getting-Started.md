@@ -18,8 +18,8 @@ Ensure your system meets the required runtime dependencies:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Bosaj/eniad-android-mobile-suite.git
-   cd eniad-android-mobile-suite
+   git clone https://github.com/Bosaj/native-android-multilingual-suite.git
+   cd native-android-multilingual-suite
    ```
 
 2. **Virtual Environment Setup (Python modules)**:
